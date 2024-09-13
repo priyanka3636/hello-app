@@ -31,7 +31,7 @@ function App() {
           </div>
         </div>
         <div className="card-footer">
-          <a href="mailto:john.doe@example.com" className="contact-btn">Contact Me</a>
+          <a href="mailto:john.doe@example.com" className="contact-btn">Contact Me Ok</a>
         </div>
       </div>
 
